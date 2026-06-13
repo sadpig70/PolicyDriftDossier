@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/PolicyDriftDossier_hero.png" alt="PolicyDriftDossier AI deployment policy drift tracker banner" width="100%">
+</p>
+
 <h1 align="center">PolicyDriftDossier</h1>
 
 <p align="center">
