@@ -1,0 +1,7 @@
+{
+  "id": "deployment-breach",
+  "max_tokens": 2048,
+  "temperature": 0.7,
+  "retrieval_enabled": false,
+  "log_level": "info"
+}

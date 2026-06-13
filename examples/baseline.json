@@ -1,0 +1,31 @@
+{
+  "id": "baseline-001",
+  "clauses": [
+    {
+      "id": "c1",
+      "field": "max_tokens",
+      "expected": 1024,
+      "tolerance": 0,
+      "required": true
+    },
+    {
+      "id": "c2",
+      "field": "temperature",
+      "expected": 0.7,
+      "tolerance": 0.1,
+      "required": true
+    },
+    {
+      "id": "c3",
+      "field": "retrieval_enabled",
+      "expected": true,
+      "required": true
+    },
+    {
+      "id": "c4",
+      "field": "log_level",
+      "expected": "info",
+      "required": false
+    }
+  ]
+}
